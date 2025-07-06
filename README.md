@@ -27,7 +27,8 @@ Due to Spotify's proprietary fonts and icons, the following alternatives were us
 ---
 
 ## 📸 Screenshots
-_Add screenshots here to showcase your project (optional)._
+![image](https://github.com/user-attachments/assets/4b1d786d-eadb-4f85-8f02-693720253efe)
+
 
 ---
 
