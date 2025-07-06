@@ -1,21 +1,40 @@
-Spotify_Clone_Project
+# Spotify-Clone-Project 🎵
 
-Built a non-functional clone of Spotify’s web player to replicate its visual design and layout.
+This project is a non-functioning clone of Spotify's website, created using HTML and CSS. It replicates the visual design and layout of certain sections of Spotify's web player.
 
-Technologies Used: HTML (for structuring web pages), CSS (for styling and layout).
+---
 
-Fonts & Icons:
+## 🚀 Technologies Used
+- **HTML**: Used for structuring the web pages.  
+- **CSS**: Used for styling and layout.
 
-Fonts: Google Fonts (selected to resemble Spotify’s interface).
+---
 
-Icons: FontAwesome’s free icons; custom images were used in some areas.
+## 🎨 Font and Icons
+Due to Spotify's proprietary fonts and icons, the following alternatives were used:  
+- **Fonts**: Google Fonts was used to select a font resembling Spotify's interface.  
+- **Icons**: FontAwesome’s free icons were used to replicate Spotify's iconography. Custom images were also used as icons in some areas.  
 
-Features:
+---
 
-Sidebar navigation mimicking Spotify’s web player.
+## ✨ Features
+✅ Sidebar navigation similar to Spotify’s web player.  
+✅ Library section with customizable options.  
+✅ Responsive design for different screen sizes.  
+✅ Styled cards to display music content.  
+✅ Footer section with a decorative line.  
 
-Library section with customizable options.
+---
 
-Responsive design adaptable to various screen sizes.
+## 📸 Screenshots
+_Add screenshots here to showcase your project (optional)._
 
-Styled cards for music content and a footer with decorative styling.
+---
+
+## 📁 Project Status
+This is a static clone project and is not connected to any backend or API.
+
+---
+
+## 👨‍💻 Author
+[Akash Mondal](https://www.linkedin.com/in/akashmondal956)  
